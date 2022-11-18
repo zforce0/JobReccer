@@ -62,12 +62,12 @@ else:
     df = pd.DataFrame(np.nan, index=range(number_of_jobs), columns=range(number_of_users))
     df.to_csv("../data/job_user_rating.csv", index=True)
 
-for u in range(20):
+for u in range(40):
     uid = sanitised_input("Please enter your user id. (for test user, in [0,39]", int, 0, 39)
     print("Thank you!")
     print("Directing you to rating system... \n")
     time.sleep(0.3)
-    for _ in range(5):
+    for _ in range(20):
         #randomly choose(recommend) one job for rating
         job = random.choice(jobs)
         jid = int(job["Job_ID"])
