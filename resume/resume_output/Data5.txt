@@ -1,1 +1,15 @@
  
+ 
+First Last 
+New York, NY 10001 • (212) 123-4567 • first.m.last@resumeworded.com • linkedin.com/in/username 
+EXPERIENCE 2016-Present RESUME WORDED & CO. San Francisco, CA Senior Data Engineer • Led team on a built-from-scratch settlement and analysis platform for VISA DPS which processes $1.5 billion transactions daily. • Provided technical mentorship to junior team members, performed cod and design reviews as well as enforced coding standards and best practices. • Performed exteme coding to include Java MapReduce, Hive, Avro, Paquet Impala, and Shell Scripting. • Installed, configured, and maintained Hadoop Clusters (CDH 5.5) on RHEL 6.5. • Evaluated current architecture and designed the new one that allowed horizontal unlimited scalability. 
+2012-2014 GROWTHS[ Beijing, China Architect/Lead Engineer (2013-2014) • Responsible for data ingest, search of log messagesss a leading travel commerce platform, and analysis. • Reduced average search time to 30 ms. • Designed and implemented an enterprise logging system using Cloudera Search, HDFS, Hive, and Hadoop. • Mentored 10 system administrators on Hadoop installation, configuration, and upgrades. 
+2012-2014 
+Technology Analyst (2012) • Designed and developed an interactive transaction to migrate all orders from legacy to the current system, which reduced time and expenses by 30% for a $50M project. Received Applause award. • Integrated and implemented objects for supply chain process for the client in SAP ECC, reducing costs for inventory, procurement, and logistics management by 25%. • Involved in requirementn gathering and Subject Matter Expert (SME) for data migration activities. 
+RESUME WORDED & CO. San Francisco, CA Database Developer • Developed and tested T-SQL stored procedures and SQL functions for ETL processing including staging and target processing from 10 sources. • Worked closely with quality assurance analyst and business analysts. • Devleoped reusable scripts for data wrangling which improved processes by 10%. 
+2014-2016 
+EDUCATION RESUME WORDED ENGINEERING SCHOOL Master of Data Science; Minor in Business Analytks • Awards: Bill & Melinda Gates Fellow (only 3 awarded to class) 
+New York, NY 
+2007-2011 RESUME WORDED UNIVERSITY San Francisco, CA Bachelor of Engineering, Major in Computer Science; Minors in Consumer Psychology and Mathematics 
+OTHER 
+• Languages: French (intermediate), Chinese (intermediate) • Technical Skills: Java MapReduce, Hive, Avro, Shell Scripting, Cloudera Search, Hadoop, SAP ECC • Certifications: Project Management Professional (PMP) (August 2016), ABC Certification, Hadoop & Spark Developer Certification, Cloudera Certified Professional (CCP) • Volunteering: Volunteered 20 hours/month at ABC Foundation (2012-2014) 

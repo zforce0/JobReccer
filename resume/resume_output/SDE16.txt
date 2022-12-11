@@ -1,2 +1,33 @@
+ROBIN GRAHAM
+SOFTWARE DEVELOPER
+Summary	
+Working in tech companies since 2013,1 succeed to grow my programming skills in different areas. I participate in projects which developing applications for Windows, Android, Web, and firmware for hardware devices also.
+My practical experience is with C and C languages and I am motivated to mastering those skills and to enrich my knowledge with a new one.
+Skills and Technologies
+•	c/c
+•	HMTL, CSS, Javascript, PHP, MySQL
+•	Java, XML
+•	SVN, Mercurial
+•	IAR, Eclipse, Embarcadero RAD Studio XE5, Android Studio
+•	JSON, XML
+Experience
+Embedded Software Engineer OpenXcell, NY Sep 2016 - Present
+•	Develop and support device firmware
+•	Implementing new features
+•	Re-writing a radio protocol using for communication between devices
+•	Implement web sockets communication encrypted by SSL Software Engineer
+Syberry Corporation, CA Oct 2015 ■ Sep 2016
+•	Write a drive for a RTC module
+•	Write a universal module for inhibition a functionalities depending on some cases
+•	Run a unit test via Tessy
+•	Writing a C code following MISRA and verify it with QA-C
+Ul Software Developer Belatrix Software, LA Oct 2013 ■ Oct 2015
+•	Develop a Windows applications in C using RAD Studio
+•	Develop a web application for one of the Windows applications to read or set up the GPS device from distance
+Software Support and Development Promatics Technologies, Chicago Jul2011 - Feb 2012
+•	Desing a user menus for set-top-box devices for digital TV
+	* Tpstinp and fixinp software faults	
+ 
+ 
  
  

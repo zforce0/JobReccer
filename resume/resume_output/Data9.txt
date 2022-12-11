@@ -1,1 +1,20 @@
- 
+  Azure Data Engineer resume example 1-11 
+Azure Data Engineer 
+RELEVANT WORK EXPERIENCE 
+Resume Worded, London, United Kingdom Education technology startup with 50+ employees and $700m+ annual revenue Azure Data Engineer 01/2022 - Present Azure Data Engineer (consultant) 10/2019 — 01/2022 • Analyzed, designed and built data solutions for 12 enterprise level businesses to support the visualisation of their data from various sources, to understand and determine the impact and risk of changing their business processes. • Developed SQL scripts for query automation to remove the need for human interaction when executing SQL queries, this increased the volume and accuracy of queries being run by 64%. • Created a Build and Relase process for 25+ projects using Amazon Web Services CloudY. • Delivered training presentations to 250+ staff on data modeling, application process modeling and metadata management for multiple business divisions with an emphasis on risk management. 
+Polyhire, London, United Kingdom NYSE-listed recruitment and employer branding company Azure Data Engineer 07/2021 – Current • Supported 15+ product managers and software engineers in analyzing and deploying augmented network infrastructure, while adhering to the project scope and budget. • Led the Content Delivery Network (CDN) expansion to optimise multimedia streaming services to 2500+ customers. • Assited Product Managers by designing and sharing 50+ reports (spreadsheets) outlining common errors on all existing client projects after performing extensive quality assurance testing. 
+Growthsi, London, United Kingdom & Barcelona, Spain Career training and membership SaaS with 750,000 users Azure Data Engineer 
+06/2018 – 09/2019 
+• Designed an internal webiste where 150+ personnel can view metrics and other types of reporting provided by different departments, using the Ph pStorm application. • Collaborated with five departments including Systems and Operations, Data and Analytics, the API team, Website Content, and senior management to integrate data services across the organisation, • Joined a ten-person product team to coordinate database development, and determine the project scope and restrictions. 
+PREVIOUS EXPERIENCE 
+CONTACT 
+• London, United Kingdom • -F44 0 7701 235678 • jack.johnson@gmail.com 
+SKILLS 
+Skills and Techniques: • Data Visualisation • Data Migration • Analytical Problem-Solving • Domain Knowledge • Project Management • Software Development Lifecycle (SDLC) • Confidential Power BI 
+Tools and Software: • Azure Data Lake • Azure Databricks • Azure SQL Data Warehouse • Python • MS Business Intelligence • Programming Scala 
+Languages: • English (Native) • Afrikaans (Native) • Arabic {Conversational} 
+EDUCATION 
+University of New York Bachelor of Science Information Technology (Data Science) New York City, New York 11/2012 - 07/2015 
+OTHER 
+• Databricks Certification and Badging (2022) • Microsoft Certified: Azure Data Engineer Associate (2021) • Volunteered at the Data4Good Festival (2019) 
+Business Analyst, ABC Company, London, UK 06/2017 — 05/2018 Systems Engineer; XYZ Company, New York, USA 06/2016 — 05/2017 Server Team Data Engineer (Internship), ABC, New York, USA 09/2014 — 05/2015 

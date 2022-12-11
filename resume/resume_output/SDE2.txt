@@ -1,15 +1,29 @@
-• 
-• 
-• 
-• 
-• 
-• 
-• 
-• 
-• 
-• 
-• 
-• 
-• 
-• 
-• 
+ARYAN RAHMAN
+Contacts and Profiles
+Phone: +8801761443969, Email: rahman.aryan07@gmail.com. GitHub: Arvan3212. Portfolio: https://aryanrahman3212.netlifv.app/. Linkedln: arvanrahman3212. LeetCode: https://leetcode.com/Aryan3212/
+Skills and Technologies
+Proficient: JavaScript, NodeJS, ExpressJS, ReactJS, CSS, SQL (Postgres), MongoDB Familiar: Kotlin/Android, Python, Django, PHP, WordPress (Plugins/Themes)
+Education
+BRAC University, BSc in Computer Science and Engineering, Sep 2018 - May 2022,
+CGPA: 3.91
+Professional Work Experience	
+Software Engineer, Stealth Startup, Feb 2022 - Aug 2022
+•	Worked on building products for various problems using JavaScript, Koa.js, Nunjucks templating and Alpine.js along with database design and analysis using PostgreSQL.
+•	Extended 1 free tool to support saving to the cloud using JSONBin along with Ul changes using React.js.
+•	Initiated an Android project using Kotlin that used Retrofit and the Jetpack Compose library.
+Web Developer Intern, YY Ventures, Sep 2021 - Nov 2021
+•	Deployed 3 websites using technologies ranging from Svelte to ReactJS.
+•	Built 1 website using Svelte, Astro and GraphCMS following the Jamstack architecture, optimizing it across multiple devices.
+•	Designed and implemented 4 animated components to be used on websites using JavaScript.
+Personal and Side Projects
+Review-lt - ExpressJS, MongoDB, Pug - Live Demo GitHub Repo
+•	A fully featured app (> 10 features) which includes posting, commenting, uploading images, authentication, authorization and map integration.
+•	Implemented a custom authentication flow using OpenID Connect and PassportJS to integrate local authentication with Google Authentication.
+•	Implemented best practices for a production-ready application. Code structure is decoupled and modular following design patterns and principles.
+•	Built protected routes so that unauthorized requests are not processed.
+•	Built a middleware to limit the amount of content that a user can create.
+•	Separated business logic into services so testing is easier for each logical unit.
+KhaBa: Solving Food Insecurity - ReactJS, Node/ExpressJS - Live Demo GitHub Repo
+•	Built 4 frontend features communicating with an ExpressJS REST API on top of MongoDB.
+•	Included a custom map using LeafletJS. Won 3rd prize in National Hackathon.
+URL Shortener - Python, Django, Bootstrap - Live Demo • Researched and developed a full-stack system that can serve shortened URLs.

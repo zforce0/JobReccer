@@ -1,4 +1,22 @@
  
+ BRANDON CONNOR Data Engineer 
+■ brandonconnor@email.com „.9 (123) 456-7890 9 Austin, TX Linkedln 
+EDUCATION 
+B.S. Computer Science University of Texas August 2016 - May 2020 Austin, TX GPA: 3.75 
+RELEVANT COURSES 
+Data Structures Algorithm Design Database Management Systems Computer Vision Software Design Methodology 
+SKILLS Python SQL ETLs APIs Spark AWS (Redshift) 
+CAREER OBJECTIVE Motivated by data and results, my passion and intern experience combined will exceed expectations at a company like Simplex. Ready to join a team of critical thinkers to build a data stack from scratch for the e-commerce space. 
+WORK EXPERIENCE 
+Data Engineering Intern Balyasny July 2020 - current Austin, TX • Used Python, SQL, and Spark to collaborate with 2 interns and a junior data engineer to create a cloud-first data ingestion that improved processing speed of data by 74% • Partnered with interns to construct a plug-in that improved investors' experience on the platform by 32% • Ingested data from disparate sources using SQL and Google Analytics API to construct data views for Bi tools like Tableau • Communicated with investors to understand needs, and translated their feedback into actionable reports in Tableau, saving 46 hours of manual work each month 
+Math Tutor Breakthrough Central Texas August 2017 - June 2020 
+Austin, TX 
+• Prepared and executed math curriculum for 3-4 students 5 hours per week in small group sessions • Created engaging assessments, including learning games, bell ringers, and team quizzes to boost math scores by 12% • Communicated with parents 2 times per month, reporting student progress while working together to adjust goals • Fostered relationships with students to build trust, staying after sessions to play basketball or football 
+PROJECTS University of Texas Hackathon • Led the data ingestion efforts for our 3-person team, developing a real-time tracker of campus events for universities in Texas • Built web scraper in Python to acquire data from campus groups' websites, and built an ETL • Won 1st place overall out of 22 competing campus teams • Scaled web app to over 30 universities in Texas, resulting in 1,700 monthly active users across those campuses 
+
+ 
+ 
+ 
  
  
  

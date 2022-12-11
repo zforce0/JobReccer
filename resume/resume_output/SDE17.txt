@@ -1,3 +1,41 @@
+Jackson Harris
+PHP DEVELOPER
+SUMMARY
+I am energetic and passionate PHP developer looking for an opportunity to enhance my abilities in a reputable organization. I have working experience in PHP, Codeigniter, Laravel and Node express and a bit about React.js with MySQL and interested to explore this journey.
+EXPERIENCE
+PHP Codeigniter developer	May 2018 - Present
+Info Tech Solutions
+•	Working on Project estimates
+•	Implement code based on project specifications.
+•	Setup and create a new table within MySQL.
+•	Testing and QA Handover document.
+•	Giving a feedback to the development group to improve Agile Project management methods.
+PHP Program Developer	Apr 2017- May 2018
+New-land Solutions Ltd
+•	Communicate with product and engineering team members to define and develop new software product concepts.
+•	Improvement of system architecture by refactoring old legacy code to the latest technology.
+•	Coordinated with the QA testing team for end-to-end unit testing and post¬production testing.
+•	Coded user frendly applications that converted raw data from design engine to easily understandable graphical formats.
+PHP Developer	2016-Mar 2017
+Atlantic Soft Technologies
+•	Build a cross-platform activity feed client for the social software product.
+•	Build mobile applications for multiple platforms.
+•	Implemented application security and data assurance software.
+•	Analysis of requirements and used systematic approaches to implement code.
+EDUCATION
+Masters Of Computer Science University of California, Los Angeles
+Mvc Codeigniter Mvc laravel
+
+NodeJS,Node express
+JavaScript
+React Js
+Git(github) Svn(Tfs, bitbucket)
+
+
+Bootstrap HTML/CSSPERSONAL SKILLS
+ 
+ 
+ 
  
  
  

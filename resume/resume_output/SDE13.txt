@@ -43,4 +43,49 @@ approach.
 Extensively worked on the Linux environments in setting up servers and other configuration 
 tools.
 EDUCATION
+© This Free Resume Template  is the copyright of Qwikresume.com. Usage GuidelinesRobert Smith
+Software Developer ­ InternPhone  (123) 456 78 99
+Email: info@qwikresume.com
+Website : www.qwikresume.com
+LinkedIn: linkedin.com/qwikresume
+Address: 1737 Marshville Road, Alabama
+SUMMARY
+One year of experience as a Software Developer. A full stack Agile developer with a strong record 
+of excellent teamwork. Enthusiastic in continuous learning and proactive in taking up the tasks. 
+SKILLS
+Java, HTML, JavaScript, SQL And Shell Scripting. T echnologies: J2SE/J2EE, JUnit, XML, JSON, SQL, 
+Web Services, JMS, Maven, LDAP, Hibernate, Struts and Spring, Big Data Analysis Using Hadoop. 
+WORK EXPERIENCE
+Software Developer - Intern
+ABC Corporation ­ May 2015 – December 2015  
+Responsible for end-to-end delivery of the enhancements including functional description, 
+installation instructions and release notes for the product.
+Used agile methodology and participated actively in the scrum calls and retrospection 
+meetings.
+Developed interfaces with external systems using java/j2ee technologies such as restful web 
+service and spring.
+Ensured high-quality code by using pair programming and reviewing approach.
+Used test-driven approach and wrote JUnit test cases using Mockito and Jmockit.
+Used soap UI tool and various simulators like wire-mock and node js for testing in 
+development environments.
+Developed functional test cases and supported the functional testing and integration testing 
+in the lab environments.
+Software Developer
+ABC Corporation ­ January 2015 – May 2015  
+Project on device provisioning work location tidal park, Chennai, India description on-device 
+provisioning is an ericssons solution developed for t-mobile networks with the purpose of 
+providing the following services to the subscribers account registration and activation 
+including plan selection, payment option registration.
+Account management including new device additions, payment option management, and 
+general account management.
+The solution offers a portal for management of the registration, activation, and management 
+of the subscriber account.
+Roles and responsibilities responsible for end-to-end delivery of the enhancements including 
+functional description, installation instructions, release notes for the product.
+Worked as an agile developer and ensured high-quality code by using pair programming 
+approach.
+Developed customer adaptations using restful web services and spring framework.
+Extensively worked on the Linux environments in setting up servers and other configuration 
+tools.
+EDUCATION
 © This Free Resume Template  is the copyright of Qwikresume.com. Usage Guidelines

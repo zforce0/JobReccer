@@ -40,4 +40,46 @@ testing, categories, tags, and search, etc.
 Integrate content management functionality into existing browser­based solutions through 
 the use of rest APIs.
 2259 Oak Street, Old Forge, New York, 13420
+© This Free Resume Template  is the copyright of  Qwikresume.com. Usage GuidelinesROBERT  SMITH
+Embedded Software Developer
+Phone: (0123)­456­789  | Email: info@qwikresume.com  | Website: Qwikresume.com  
+SUMMARY
+Having 5+ years of experience with a role of Software Developer, having experience in System 
+Analysis, Designing, Development, Testing and Implementation of Web and Windows Application 
+using Microsoft Technology in all the phases of Software Development Life Cycle (SDLC) Strong 
+experience in Client/Server applications and N­tier Architecture in Web Applications. 
+CORE COMPETENCIES
+Web Technologies ASP, ASP.Net, MVC5, Web Services, HTML, CSS, JavaScript, AJAX, JQuery, 
+JSON, Angular JS, Bootstrap, Knockout Js, Node Js, and Rest Services (Web API, WCF).
+PROFESSIONAL EXPERIENCE
+Embedded Software Developer
+ABC Corporation ­ January 2016 – Present
+Key Deliverables:
+Implemented the ability for h&amp;m employees to login to bid now with their ad domain 
+users.
+Responsibilities designed and developed rams portal to integrate with public website 
+application using c#, MVC 5, WCF, generics, SQL server 2013.
+Creating a business logic layer (BLL) &amp; data access layers (DAL) to implement MVC 
+architecture.
+Developing front­end interaction webpages with server controls, validation controls, layout, 
+and master pages.
+Designing the application as 3­tier architecture with extensive use of object­oriented 
+programming techniques.
+Involved in design and developing components of this application using MVC 5, c. Net, 
+HTML. CSS, AngularJS.
+Implementing routing, URL, security, action filter techniques for application development.
+Net Developer
+ABC Corporation ­ February 2014 – December 2015
+ 
+Key Deliverables:
+The project involved development financial module for Medicare with four sub­applications,
+individual premium coupon, deposit log, bank transfer, and pre­authorized checking, 
+facilitating the entire premium payment process.
+Responsibilities design, develop and deploy multiple asset management components and 
+feature rich functionalities of the products such as version control, dynamic content, a/b 
+testing, categories, tags, and search, etc.
+Worked with front ends web development technologies like HTML, CSS, and AngularJS.
+Integrate content management functionality into existing browser­based solutions through 
+the use of rest APIs.
+2259 Oak Street, Old Forge, New York, 13420
 © This Free Resume Template  is the copyright of  Qwikresume.com. Usage Guidelines

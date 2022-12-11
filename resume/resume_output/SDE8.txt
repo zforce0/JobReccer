@@ -74,4 +74,80 @@ REFERENCES
 Reference – 1 (Company 
 Name)
 Reference – 2 (Company 
+Name)Robert Smith 
+Software Developer ­ Intern
+PERSONAL STATEMENT
+2 years of experience as a Software Developer. Have a good understanding 
+of complete software development life cycle including Requirement 
+Analysis, Design, Development, T esting, Integration, and Maintenance of 
+various client/server and multi-tier web applications.   Experience with 
+working on CSS Preprocessors like LESS & SASS. Experience in prototyping 
+visual design concepts and providing a solution for new navigation systems,
+resulting in better user experience.
+WORK EXPERIENCE
+Software Developer - Intern
+ABC Corporation -   March 2014 – April 2015 
+Responsibilities:
+Responsibilities created a custom angular directive for implementing 
+accessibility features for eliminating cross-browser computability.
+Developed user interfaces using html5, css3, javascript, xhtml, jquery, 
+ajax, json, angularjs, node js, jquery, html5, css3 and bootstrap.
+Coding, testing of reusable javascript, css3, html5 for complex UI 
+controls.
+T ested cross-browser functionality and fixed major layout bugs for 
+supported browsers using angular. Js.
+Responsible for transforming design mock-ups to w3c standards 
+compliant HTML pages using html5, css3, and javascript.
+Used node js for the communication to the server through restful API 
+and added user validations &amp; permissions by using it.
+Implemented form validations across the site using jquery and 
+javascript.
+Junior Web Developer
+ABC Corporation -   July 2013 – February 2014 
+Responsibilities:
+Responsibilities designed the user interactive (UI) web pages using web 
+technologies like HTML, XHTML, CSS, bootstrap, angular. Js framework.
+Wrote application level code to perform client-side validation using 
+jquery and javascript.
+Used css3 based design techniques to eliminate table-based layouts, 
+and speed page loading.
+Used jquery to traverse through a dom tree and manipulated the nodes 
+in the tree.
+Worked on consuming JSON object creation, parsing on both clients as 
+well as server side.
+Progressively enhanced form elements with jquery to add more robust 
+functionality.
+Extensive use of jquery events for manipulation of events and jquery 
+plugins for menus and widgets.
+© This Free Resume Template  is the copyright of Qwikresume.com. Usage GuidelinesCONTACT DETAILS
+1737 Marshville Road, 
+Alabama
+(123)-456-7899
+info@qwikresume.com 
+www.qwikresume.com
+SKILLS
+Waterfall, Iterative, Agile
+and Scrum approach. 
+Sound working 
+knowledge on web 
+development and UI 
+using HTML 5, CSS 3, 
+JavaScript, JQuery, 
+Angular JS, Node JS. 
+Implementing Web 
+services with SOAP and 
+REST.
+LANGUAGES
+English (Native)
+French (Professional)
+Spanish (Professional)
+INTERESTS
+Climbing
+Snowboarding
+Cooking
+Reading
+REFERENCES
+Reference – 1 (Company 
+Name)
+Reference – 2 (Company 
 Name)

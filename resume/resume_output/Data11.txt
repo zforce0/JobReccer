@@ -1,2 +1,23 @@
+First Last 
+GOP Data Engineer Google Cloud Platform Data Engineer with seven years of experience working with GOP stacks including BigQuery, Composer, Cloud Storage, Cloud Functions, and migrating legacy systems into GCP technologies. Worked in teams of 20+ team members. 
+WORK EXPERIENCE 
+GCP Data Engineer November 2015 - Present Resume Worded, New York, NY • Partnered with stakeholders to deliver 25+ BigQuery migrations, by adopting and integrating specialized solutions from multiple leading technology vendors. • Collaborated with software engineers to performance tune databases used by 15 external custom applications by utilizing SQL Profiler and SQL Execution Plans. • Engaged with product managers, analysts, and senior management regarding data pipelines, this improved productivity KPIs by 35%. • Provided support with hiring efforts, projects, and the overall direction of a team of 12 engineers and 3 data scientists, working remotely across the globe. 
+GCP Data Engineer June 2013 - October 2015 Growthsi, San Francisco, CA 
+• Developed six dashboards for reporting using Tableau to allow clients to track key metrics from their Saleforce.com databases to aid decision-making. • Coordinated a team of eight software engineers on a project to modify 4 existing database management systems. • Mentored a team of 17 technical team members, including coordinating the development of a framework to generate daily ad-hoc reports using enterprise data from BigQuery. • Provided technical input on a new internal web application for tracking donor information consisting of eight databases using Snowflake and Reporting Services. 
+GCP Data Engineer August 2010 - January 2013 Resume Worded's Exciting Company, New York, NY • Automated ETL processes across a high volume of data which reduced the manual workload by 25% annually • Developed budgeting processes and audit plans for 30+ vendors to verify month-end market data. • Designed tools to perform automated verification testing, and assist in capturing serial data link requirements which resulted in an increase in efficiency by 55%. • Assisted remote working engineers to troubleshoot network issues in 
+nine data centers and remote offices in the US. 
+CONTACT 
+• Denver, 01-1 (Open to Remote) • +1-234-456-789 • email@resumeworded.com • linkedin.com/inlusername • github.com/resumeworded 
+SKILLS 
+Data VistialiZaIioniEngineering. • AutoML (Advanced) • Bigquery ML (Experienced) • Pytorch • Dataprep by Trifacta • Scikit-learn 
+Techniques: • Machine leaning • Data engineering • Data migration • Busines Analysis 
+Tools and Frameworks: • PowerBl • Composer • Oracle OBIEE • Tableau • Databases (Snowflake) 
+• Don't forget to use Resume Worded to scan your resume before you send it off (it's free and proven to get you more jobs) 
+EDUCATION 
+Resume Worded University Bachelor of Science Major in Computer Science Minors in Business Strategy & Analytics Boston, MA — April 2018 Awards: Resume Worded Teaching Fellow (only 7 awarded to class), Dean's List 2018 (Top 5%) 
+OTHER 
+• Google Cloud Professional Data Engineer Certification (2022) • Completed a BigQuery for Big data engineers course in 2019 
+ 
+ 
  
  

@@ -1,3 +1,43 @@
+WORK EXPERIENCE
+Mid-Level Data Engineer
+Matlen Silver
+August 2019 - current	9 Long Beach, CA
+. Developed, maintained, and oversaw 30+ automated and scalable ETL/ELT data pipelines . Sourced, processed, validated, transformed, aggregated, and distributed data from 50+ sources . Built cloud-based data solutions housing data from 50+ data sources,, resulting in a 32% increase in revenue . Optimized 12 non-performant databases, queries, and pipelines in 2019
+• Ensured timely access to data by 100% of applications . Documented 100+ data sources, data structures, data flows, and data infrastructure
+. Developed monitoring and alerting capabilities to ensure 100% of data pipelines were working
+Data Engineer Analyst
+Accenture
+June 2017 - August 2019	9 Long Beach, CA
+. Developed 30+ high-performance data pipelines to support complex data integration
+. Collaborated with a 12-person team in developing 20+ automation programs, shell scripts, and other utilities . Wrote and designed testable and efficient code according to industry and company best practices . Supported 6+ process flow analyses and ETL process redesigns, contributing 3 implemented plans . Documented 300+ customers' requirements and provided cost/effort breakdowns
+. Created solution documentation framework to ensure 100% of errors were corrected and recorded
+Entry-Level Data Engineer KGS Technology Group Inc BB May 2015 - June 2017	9 Los Angeles, CA
+• Expanded and optimized data and data pipeline architecture, increasing efficiency by 25%
+. Worked in a collaborative Agile environment with 17 other data engineers, data scientists, and software engineers . Designed, built, and supported 20+ components and corresponding pipelines . Developed 50+ tests for Cognitive Systems . Worked with software developers, data analysts, and data scientists on data initiatives through 3 designed python machine-learning programs (MLP)
+VIVIANNE
+ARLINGTON
+Data Engineer Analyst
+B var@email.com J {123)456-7890 9 Long Beach, California 03 linkedin.com/in/viv-arl \# twitter.com/viv-arl
+
+EDUCATION
+B.S
+Computer Engineering UCLA
+September 2011 - May 2015 Los Angeles, CA CPA: 3.6
+SKILLS
+Python
+SQL
+Azure
+Hadoop
+PowerBI
+Tableau
+Alteryx
+Bigquery
+Agile/Scrum
+ 
+ 
+ 
+ 
+ 
  
  
  

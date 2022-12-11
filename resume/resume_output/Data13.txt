@@ -1,3 +1,19 @@
+CARLA PEREZ 
+BIG DATA ENGINEER 
+CONTACT 
+carlaperez@email.com (123) 456-7890 San Francisco, CA LInkedIn 
+CAREER OBJECTIVE Data engineer seeking to leverage 5+ years of experience in building data pipelines to contribute to the Acme Corp mission of making payments easy and accessible for small businesses across the world. 
+EDUCATION 
+B.S. Computer Science UCLA September 2012 - April 2016 Los Angeles, CA 
+SKILLS 
+AWS (Athena, Lambda, 53) Spark, Kafka, Airflow SQL (Postgres, Redshift, MySQL), NoSQL (MongoDB) ETLs Python 
+WORK EXPERIENCE 
+Data Engineer Duolingo January 2018 - current / San Francisco, CA • Constructed a data pipeline to process semi-structured data by incorporating 100 million raw records from 14 data sources • Oversaw the migration from Oracle to Redshift, saving $750,000 in 2019 with a performance increase of 14% • Designed the data pipeline architecture for a new product that quickly scaled from 0 to 60,000 daily users • Integrated data from multiple third party APIs that provided data around local language preferences, leading to customized landing pages that improved paid conversion rate by 6% • Led a team of 1 full-time employee and 3 contractors, and frequently collaborated with project managers and analysts 
+Data Engineer Stripe April 2016 - January 2018 / San Francisco, CA • Ingested streaming and transactional data across 9 diverse primary data sources using Spark, Redshift, 53, and Python • Created Python library to parse and reformat data from external vendors, reducing error rate in the data pipeline by 12% • Automated ETL processes across billions of rows of data, which saved 45 hours of manual hours per month • Built tools to provide real-time data around international currency exchange, reducing latency by 15% 
+Wine Bar Server Velvet 48 September 2012 - April 2016 / San Francisco, CA • Gained knowledge of 1,000+ high-end wines, providing customized recommendations to 40+ customers per shift • Leveraged exceptional customer service with wine knowledge to boost monthly wine sales by 14% • Established customer rapport through a recommended loyalty program that drove wine subscriptions up by 11% 
+ 
+ 
+ 
  
  
  

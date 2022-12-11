@@ -1,1 +1,22 @@
  
+ 
+Justin Brandon DATA SCIENTIST 
+info@resumekraft.com 1251 202-555-0120 Chicago, Illinois, US 9 linkedin.com/resumekraft in 
+
+SUMMARY 
+A highly competent data scientist with five years of experience developing a
+wide range of innovative applications like Credit Card Fraud Detection, Stock Sentiment Analysis Model, and Customer support system. 
+Ability to use (data) statistics and machine learning for finding complex data patterns that drive meaningful impact on the business. 
+I am looking for the opportunity to build a challenging career and apply my skills in an innovative and simplify process. I enjoy working in a team and communicating data-driven results. 
+SKILLS  Python & R ■ ■ ■ • I SPSS & STATA NLTK & OpenCV ■ ■ ■ U PowerBi & Spotfire SQL & SAS • • • • 
+IP II MI■ 
+■ ■ ■ ■ 
+  Data Scientist 
+EXPERIENCE 
+Data Scientist 
+Info Tech Solutions - New York Oct 2018 - Present 
+• To predict house prices using time series analysis and neural networks 
+• Identify factors that predict which employees will have the best performance and which will benefit from a change in their job position using machine learning. 
+• Designed the information architecture and model of an organization's assets • Coordinated with the stakeholders on project progress. 
+• Involved in the continuous enhancements and finding the best solution. 
+Data Scientist Consultant JP Morgan Asset Management - Florida May 2018 - Sep 2018 

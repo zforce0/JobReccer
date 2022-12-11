@@ -39,4 +39,45 @@ Packages  and Triggers using SQL and PL/SQL.
 • Expertise in Dyna mic SQL, Collections and Exception handling.  
 • Good knowledge of Query Optimizer, Execution Plans, and Indexes.  
 • Used Bulk Collections for better performance and easy retrieval of data, by 
+reducing  context switching between SQL and PL/SQL engines.  Steven Williamson  
+PL SQL  DEVELOPER  
+Summary  
+Oracle PL/SQL Developer with 7 years of experience in Analysis, Design, and 
+Implementation of Custome  
+Applications using the Oracle Relational Database Management System (RDBMS). 
+Ability to work as  
+an independent or as part of a team. Highly skilled and experienced PL SQL Developer 
+with programs and  
+procedures.  
+Skills  
+1. Oracle (SQL, PL/SQL)  
+2. Data Modelling  
+3. SQL PLUS  
+4. SQL Loader  
+5. UNIX Shell scripting  
+6. HP QC  
+7. ER Win 4.0/7.3  
+8. TOAD  
+Experience  
+Senior PL/SQL Developer  
+JP Morgan – New York Jun 2018 – Present  
+• Participated in Analysis, Design, and Implementation of Business Applications using 
+the Oracle (RDBMS).  
+• Participated in all phases of the SDLC (Software Development Life Cycle) from 
+analysis, design, development, te sting, implementation, and maintenance with 
+timely delivery against aggressive deadlines.  
+• Expertise in Client -Server application development using Oracle 11g/10g, 
+PL/SQL,SQL *PLUS, TOAD and SQL DEVELOPER.  
+• Effectively made use of Table Functions, Indexes, T able Partitioning, 
+Collections,Analytical functions, Materialized Views.  
+• Good knowledge on logical and physical Data Modeling using normalizing 
+Techniques.  
+• Created Tables, Views, Constraints, Index (B Tree, Bitmap and Function Based).  
+• Developed Complex dat abase objects like Stored Procedures, Functions, 
+Packages  and Triggers using SQL and PL/SQL.  
+• Experience in Oracle supplied packages,Dynamic SQL, Records and PL/SQL Tables.  
+• Worked extensively on Ref Cursor, External Tables and Collections.  
+• Expertise in Dyna mic SQL, Collections and Exception handling.  
+• Good knowledge of Query Optimizer, Execution Plans, and Indexes.  
+• Used Bulk Collections for better performance and easy retrieval of data, by 
 reducing  context switching between SQL and PL/SQL engines.  

@@ -43,4 +43,49 @@ analysts and translate such requirements to technical system specificati
 Used hibernate for mapping object­oriented design model to the relational database.
 Co­operate with leads to provide Java­based solutions for bug fixes and enhancements.
 Education
+© This Free Resume Template  is the copyright of Qwikresume.com. Usage GuidelinesDatabase Software Developer
+ROBERT SMITHPhone: (123) 456 78 99
+Email: info@qwikresume.com
+Website: www.qwikresume.com
+LinkedIn: linkedin.com/qwikresume
+Address: 1737 Marshville Road,
+Alabama
+Objective
+7+ years of professional experience as a Software Developer, expertise in developing client­server, 
+web­based, and n­tier applications using Microsoft tools and technologies including. Highly 
+motivated, detail oriented, ability to work independently and as a part of the team with excellent 
+Technical, Analytical and Communication skills.
+Skills
+HTML5/CSS3/Java Script, AngularJS, ExtJS, Ajax, XML 1.0, and JSON. 
+Work Experience
+Database Software Developer
+ABC Corporation ­ January 2014 – Present  
+Responsibilities review the high­level design (HLD), functional requirements, system impacts 
+and discussed the new functionality implemented in team meetings.
+Performing the use case analysis and design by gathering the requirements directly from end­
+user for new modules and enhancements.
+Developing an in­depth understanding of smart VMA architecture and frameworks.
+Designing and writing test cases, scenarios, scripts, and procedures based on software 
+requirements.
+Analyzing existing program logic to determine the best method of accomplishing required 
+changes or cause of program malfunction.
+Updating the development environment by identifying new compatible components.
+Responsible for rewriting legacy applications to. Net applications utilizing c#, Azure, MVC, SQL 
+server and other technologies.
+Software Engineer
+ABC Corporation ­ August 2012 – December 2013 
+Project provisioning controller description the end to end integration program (known as e2ei) 
+is a strategic global initiative to significantly simplify products offering to Verizon customers 
+and as a consequence, simplify systems and processes.
+It had been proven impossible to keep on the plan with IT testing, UAT and business leaders do
+dedicate it/business testing teams headed by system test facilitators assigned to each testing 
+team to manage resources, workload and maintain momentum were created.
+Responsibilities understand and prioritize business requirements drafted by the requirement 
+analysts and translate such requirements to technical system specifications.
+Real­time experience in using Java, JSP, servlets, web service, EJB, threads, log4j, apache 
+(common API), pl/SQL, ANT for enterprise application development.
+Code development, enhancement &amp; review the scope of project and specifications.
+Used hibernate for mapping object­oriented design model to the relational database.
+Co­operate with leads to provide Java­based solutions for bug fixes and enhancements.
+Education
 © This Free Resume Template  is the copyright of Qwikresume.com. Usage Guidelines
