@@ -1,0 +1,42 @@
+ 
+ 
+ 
+ 
+ JUDAH BERGER
+POWER AND PERFORMANCE DATA ENGINEER
+CONTACT WORK EXPERIENCE
+Power Performance Data Engineer
+Search Discovery
+May 2018-current / New York NY
+•	Worked as a lead member of the Data and Cloud Engineering team
+•	Implemented 20+ fault-tolerant and scalable solutions using Business Intelligence platforms
+•	Determined and documented best ways to transform data for building visualizations
+•	Collaborated and contributed to identifying project risks, designing mitigation plans, and developing timeline estimates
+Mid-Level Data Engineer
+Zealogics Inc
+August 2016-May 2018 / New York NY
+. Architected large-scale data intelligence solutions
+•	Crafted 3 new architectural options and analyses around Snowflake Data Warehouse
+•	Translated 100+ data transformation requirements into descriptions, tools, and processes
+•	Created 3 documentation guides for modern ways of automating data pipeline using cloud-based tools
+Data Engineer
+Dell
+April 2014-August 2016 / Washington DC
+•	Developed 3 new analytical designs for business problem statements
+•	Implemented 6 new analytical tools and techniques to improve solution and design of SDLC (Software Development Life Cycle)
+•	Analyzed business needs and created 3 software and hardware solution blueprints
+•	Worked with 3 Data Product Managers and Solution Architects to define use cases and measurable business metrics
+•	Worked with 2 engineering teams to check the feasibility of solutions, build stories, and architect the solution
+jberger@email.com (123)456-7890	'
+Brooklyn. NY linkedin.com/in/judah-berg
+EDUCATION
+B.S.
+Computer Science University of Pittsburgh September 2010 - April 2014 Pittsburgh, PA GPA: 3.8
+SKILLS
+Snowflake Python Tableau Power Bl AWS Azure SQL Oracle Kubernete
+
+ 
+ 
+ 
+ 
+ 

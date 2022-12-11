@@ -1,0 +1,81 @@
+ROBERT SMITH
+Software Developer I
+info@qwikresume.com | https://Qwikresume.com
+Over 4 years of professional Software Development Experience with strong 
+designing and application development using JavaJ2EE, JavaScript, JQuery, Object 
+Oriented Programming, Web Services, MySQL, SQLite, PostgreSQL, Mongo DB, H-
+Base. Can effectively work in both independent and collaborative work 
+environments. Excellent communication and interpersonal skills and 
+documentation skills.
+FEBRUARY 2016 – PRESENT
+SOFTWARE DEVELOPER I - ABC CORPORATION
+Responsibilities developing and testing many features in an agile environment 
+using Ruby, PHP, go language developed backend micro-services for an internal 
+application called Rio, using ruby, go language.
+Implementing the message broker RabbitMQ (ruby) and busboy (go language) 
+to communicate between API and microservices.
+Launching the VMS on a different cloud platform and monitor the performance 
+and configuration.
+Handling exceptions using Golang by using errors package and also when we 
+get a bad response from APIs.
+Collaborating with product management and user experience experts regarding 
+product definition, schedule, scope, and project-related decisions.
+Assisted in the migration of portions of the character based version application 
+to the windows application.
+Developed and maintained a custom medical practice management application,
+centered primarily on scheduling and billing.
+APRIL 2015 – FEBRUARY 2016
+SR. ROR DEVELOPER - ABC CORPORATION
+Merchant link a payment gateway facilitates the transfer of information 
+between a point of payment and the front-end processor or bank.
+This web application built is used by the merchants and as well as the internal 
+employees for view all their transactions activities and managing their personal 
+login accounts.
+Responsibilities actively involved in the analysis of the system requirements 
+specifications and involved in client interaction during requirements 
+specifications.
+This involves gathering information about the requirement, analyzing and 
+preparing the (SDLC) document of understanding.
+Developed website using ruby on rails on UNIX/Linux operating system, backed 
+by MySQL, Oracle and Mongo DB.
+© This Free Resume Template  is the copyright of Qwikresume.com. Usage GuidelinesROBERT SMITH
+Software Developer I
+info@qwikresume.com | https://Qwikresume.com
+Over 4 years of professional Software Development Experience with strong 
+designing and application development using JavaJ2EE, JavaScript, JQuery, Object 
+Oriented Programming, Web Services, MySQL, SQLite, PostgreSQL, Mongo DB, H-
+Base. Can effectively work in both independent and collaborative work 
+environments. Excellent communication and interpersonal skills and 
+documentation skills.
+FEBRUARY 2016 – PRESENT
+SOFTWARE DEVELOPER I - ABC CORPORATION
+Responsibilities developing and testing many features in an agile environment 
+using Ruby, PHP, go language developed backend micro-services for an internal 
+application called Rio, using ruby, go language.
+Implementing the message broker RabbitMQ (ruby) and busboy (go language) 
+to communicate between API and microservices.
+Launching the VMS on a different cloud platform and monitor the performance 
+and configuration.
+Handling exceptions using Golang by using errors package and also when we 
+get a bad response from APIs.
+Collaborating with product management and user experience experts regarding 
+product definition, schedule, scope, and project-related decisions.
+Assisted in the migration of portions of the character based version application 
+to the windows application.
+Developed and maintained a custom medical practice management application,
+centered primarily on scheduling and billing.
+APRIL 2015 – FEBRUARY 2016
+SR. ROR DEVELOPER - ABC CORPORATION
+Merchant link a payment gateway facilitates the transfer of information 
+between a point of payment and the front-end processor or bank.
+This web application built is used by the merchants and as well as the internal 
+employees for view all their transactions activities and managing their personal 
+login accounts.
+Responsibilities actively involved in the analysis of the system requirements 
+specifications and involved in client interaction during requirements 
+specifications.
+This involves gathering information about the requirement, analyzing and 
+preparing the (SDLC) document of understanding.
+Developed website using ruby on rails on UNIX/Linux operating system, backed 
+by MySQL, Oracle and Mongo DB.
+© This Free Resume Template  is the copyright of Qwikresume.com. Usage Guidelines

@@ -1,0 +1,177 @@
+Robert Smith 
+Software Developer (Consultant)
+PERSONAL STATEMENT
+Software Developer with 7+ years of experience in all phases of Software 
+Development Life Cycle, which includes Analysis, Design, Development, 
+T esting, Implementation, and Support. Experience in design and 
+implementation of client/server and web applications using J2EE (EJB, 
+Servlets, JSP, JSTL, JDBC) and XML technologies (XML and XML Schema). 
+Experience in designing and developing solutions using the MVC 
+Architecture with Spring. 
+WORK EXPERIENCE
+Software Developer (Consultant)
+ABC Corporation -   September 2013 – Present 
+Responsibilities:
+Mainly focused on working closely with analysis and r&amp;d team.
+Full stack development with spring MVC as front end and hibernate as 
+ORM.
+Implementing auth2 for user authentication purpose to implement 
+security.
+Implementing the hibernate framework using Dao, POJO classes for all 
+the modules of the applications such as products, service, and 
+customer.
+Developing different GUI screens using JSPs, HTML, DHTML, Ajax, and 
+CSS to design the pages according to client experience workbench 
+standards.
+Working on restful web services to enforce a stateless client-server and 
+support JSON few changes from soap to restful technology used ajax 
+and JSON to send a request to the server and updating GUI pages.
+Using javascript and Ajax features for populating the end results in web 
+pages dynamically and for auto-completion and validation of the user 
+entered data in the forms.
+Software Developer
+ABC Corporation -   May 2012 – August 2013 
+Responsibilities:
+Registered NGO managed by Salesians of Don Bosco, part of 
+international don Bosco society headquartered in Rome, Italy, and 
+dedicated to promoting the education of young people in Kathmandu 
+valley and Nepals outback.
+Responsibilities Involved in analysis, design, coding, and unit testing of 
+the project.
+Used Eclipse aside, tomcat as a web server and BEA WebLogic as an 
+application server to develop and deploy the application.
+Developed different GUI screens using JSP, HTML, DHTML, Ajax, and CSS
+to design the pages according to client experience workbench 
+standards.
+Used spring framework to develop the application and design the 
+application flow.
+© This Free Resume Template  is the copyright of Qwikresume.com. Usage GuidelinesCONTACT DETAILS
+1737 Marshville Road, 
+Alabama
+(123)-456-7899
+info@qwikresume.com 
+www.qwikresume.com
+SKILLS
+Database Management 
+Programming 
+Languages: Java, C, C#, 
+PHP, Python Big Data 
+T echnologies: Apache 
+Hadoop, MapReduce, 
+Cascading, HP Vertica, 
+Apache Spark, Sqoop, 
+Hive, HBase, Oozie, Pig 
+Frameworks: Spring 
+MVC, Hibernate, Spring 
+Data JPA, JSF1.1/1.2, JSP 
+And Servlets Databases: 
+MS-SQL, Oracle IDE: MS 
+Visual Studio 2013, 
+IntelliJ Idea, Eclipse, STS,
+Dreamweaver, 
+NetBeans, and 
+Platforms: Windows 
+7,8,10 / Ubuntu 13.10 
+UIT esting. 
+LANGUAGES
+English (Native)
+French (Professional)
+Spanish (Professional)
+INTERESTS
+Climbing
+Snowboarding
+Cooking
+Reading
+REFERENCES
+Reference – 1 (Company 
+Name)
+Reference – 2 (Company 
+Name)Robert Smith 
+Software Developer (Consultant)
+PERSONAL STATEMENT
+Software Developer with 7+ years of experience in all phases of Software 
+Development Life Cycle, which includes Analysis, Design, Development, 
+T esting, Implementation, and Support. Experience in design and 
+implementation of client/server and web applications using J2EE (EJB, 
+Servlets, JSP, JSTL, JDBC) and XML technologies (XML and XML Schema). 
+Experience in designing and developing solutions using the MVC 
+Architecture with Spring. 
+WORK EXPERIENCE
+Software Developer (Consultant)
+ABC Corporation -   September 2013 – Present 
+Responsibilities:
+Mainly focused on working closely with analysis and r&amp;d team.
+Full stack development with spring MVC as front end and hibernate as 
+ORM.
+Implementing auth2 for user authentication purpose to implement 
+security.
+Implementing the hibernate framework using Dao, POJO classes for all 
+the modules of the applications such as products, service, and 
+customer.
+Developing different GUI screens using JSPs, HTML, DHTML, Ajax, and 
+CSS to design the pages according to client experience workbench 
+standards.
+Working on restful web services to enforce a stateless client-server and 
+support JSON few changes from soap to restful technology used ajax 
+and JSON to send a request to the server and updating GUI pages.
+Using javascript and Ajax features for populating the end results in web 
+pages dynamically and for auto-completion and validation of the user 
+entered data in the forms.
+Software Developer
+ABC Corporation -   May 2012 – August 2013 
+Responsibilities:
+Registered NGO managed by Salesians of Don Bosco, part of 
+international don Bosco society headquartered in Rome, Italy, and 
+dedicated to promoting the education of young people in Kathmandu 
+valley and Nepals outback.
+Responsibilities Involved in analysis, design, coding, and unit testing of 
+the project.
+Used Eclipse aside, tomcat as a web server and BEA WebLogic as an 
+application server to develop and deploy the application.
+Developed different GUI screens using JSP, HTML, DHTML, Ajax, and CSS
+to design the pages according to client experience workbench 
+standards.
+Used spring framework to develop the application and design the 
+application flow.
+© This Free Resume Template  is the copyright of Qwikresume.com. Usage GuidelinesCONTACT DETAILS
+1737 Marshville Road, 
+Alabama
+(123)-456-7899
+info@qwikresume.com 
+www.qwikresume.com
+SKILLS
+Database Management 
+Programming 
+Languages: Java, C, C#, 
+PHP, Python Big Data 
+T echnologies: Apache 
+Hadoop, MapReduce, 
+Cascading, HP Vertica, 
+Apache Spark, Sqoop, 
+Hive, HBase, Oozie, Pig 
+Frameworks: Spring 
+MVC, Hibernate, Spring 
+Data JPA, JSF1.1/1.2, JSP 
+And Servlets Databases: 
+MS-SQL, Oracle IDE: MS 
+Visual Studio 2013, 
+IntelliJ Idea, Eclipse, STS,
+Dreamweaver, 
+NetBeans, and 
+Platforms: Windows 
+7,8,10 / Ubuntu 13.10 
+UIT esting. 
+LANGUAGES
+English (Native)
+French (Professional)
+Spanish (Professional)
+INTERESTS
+Climbing
+Snowboarding
+Cooking
+Reading
+REFERENCES
+Reference – 1 (Company 
+Name)
+Reference – 2 (Company 
+Name)

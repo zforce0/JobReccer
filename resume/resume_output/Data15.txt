@@ -1,0 +1,17 @@
+
+ Daniel Trevino 
+dtrevino@email.com (123) 456-7890 
+Portland, ME Linkedln 
+Wavely - Senior Data Engineer February 2014 - current Portland, ME • Led the migration to cloud-based data integration, improving annual revenues by 37% in 2018 • Identified root causes of internal processes with Fishbone diagrams, and made recommendations for corrections • Designed more than 30 ETS from scratch using Stitch, resulting in valuable insights into KPI failures surrounding customer acquisitions • Oversaw a team of 5 data engineers, and collaborated with company management recommend changes based on data history and tests 
+MORSE Corp - Data Engineer June 2009 - February 2014 Portland, ME • Collaborated with engineers and data teams to monitor, maintain, and leverage data for a $10M Al contract • Defined, built, and executed ETLs to resolve navigation issues, preventing a $1.2M loss • Developed real-time data pipelines to provide insights for debugging system integrations, improving operating efficiency by 32% • Created portable data pipelines using Kedro to provide a standard for machine learning 
+Driven Brands - Junior Data Engineer June 2005 - June 2009 Portland, ME • Used Airflow to build ETL solutions that helped improve conversion rates by 16% • Developed and maintained data pipeline, ingesting data across 12 disparate sources using Redshift, 53, and Python • Ingested data from disparate data sources using SQL, Google Analytics API, and Salesforce API using Python to support vendor solutions for the warehouse • Communicated with business departments to understand needs and requests in order to build 20+ data pipelines for analyzing technical issues 
+EDUCATION 
+University of Southern Maine - B.S., Computer Science August 2001 - May 2005 Portland, ME 
+SMUTS 
+Python; SQL (Postgres, Redshift, MySQL), NoSQL (MongoDB); Spark, Kafka, Airflow; AWS (Athena, Lambda, 53); ETLs 
+
+ 
+ 
+ 
+ 
+ 

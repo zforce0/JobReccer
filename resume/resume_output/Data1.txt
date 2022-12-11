@@ -1,0 +1,85 @@
+Warren Taylor  
+DATA  SCIENTIST  
+Summary  
+A highly competent data scientist with five years of experience developing a wide range 
+of innovative applications like Credit Card Fraud Detection, Stock Sentiment Analysis 
+Model, and Customer support system. Ability to use (data) statistics and machine 
+learning for finding complex data patterns that drive meaningful impact on the business. 
+I am looking for the opportunity to build a challenging career and apply my skills in an 
+innovative and simplified process . I enjoy working in a team and communicating data -
+driven results.  
+Experience  
+Data  Scientist  
+Info-Tech Solutions New York  
+To predict house prices using time series analysis and neural networks  
+Identify factors that predict which employees will have the bes t performance and which 
+will 
+benefit from a change in their job position using machine learning.  
+Designed the information architecture and model of an organization’s assets  
+Coordinated with the stakeholders on the project progress.  
+Involved in the continuo us enhancements and finding the best solution.  
+Data  Scientist  Consultant  
+JP Morgan Asset Management Florida  
+Predicting the Stock price using sentiment analysis model.  
+Finding the stock market daily patterns and creating a meaningful solution to the 
+busines s. 
+Identifying the Multi bagger stocks using machine learning and AI  
+Skills  
+1. Python & R  
+2. NLTK & OpenCV  
+3. SQL & SAS  
+4. SPSS & STATA  
+5. PowerBI & Spotfire  
+Education  
+Master  of Computer  Application  
+Cornell University Ithaca, New York  
+Bachelor  of Computer  Science  
+Califor nia Institute of Technology  
+Projects  
+Stock  Price  Prediction  
+JP Morgan Asset Management Florida  
+Use the Sentiment Analysis Algorithms to  
+understand the stock sentiments.  
+Project: Twitter Sentiment Analysis  Warren Taylor  
+DATA  SCIENTIST  
+Summary  
+A highly competent data scientist with five years of experience developing a wide range 
+of innovative applications like Credit Card Fraud Detection, Stock Sentiment Analysis 
+Model, and Customer support system. Ability to use (data) statistics and machine 
+learning for finding complex data patterns that drive meaningful impact on the business. 
+I am looking for the opportunity to build a challenging career and apply my skills in an 
+innovative and simplified process . I enjoy working in a team and communicating data -
+driven results.  
+Experience  
+Data  Scientist  
+Info-Tech Solutions New York  
+To predict house prices using time series analysis and neural networks  
+Identify factors that predict which employees will have the bes t performance and which 
+will 
+benefit from a change in their job position using machine learning.  
+Designed the information architecture and model of an organization’s assets  
+Coordinated with the stakeholders on the project progress.  
+Involved in the continuo us enhancements and finding the best solution.  
+Data  Scientist  Consultant  
+JP Morgan Asset Management Florida  
+Predicting the Stock price using sentiment analysis model.  
+Finding the stock market daily patterns and creating a meaningful solution to the 
+busines s. 
+Identifying the Multi bagger stocks using machine learning and AI  
+Skills  
+1. Python & R  
+2. NLTK & OpenCV  
+3. SQL & SAS  
+4. SPSS & STATA  
+5. PowerBI & Spotfire  
+Education  
+Master  of Computer  Application  
+Cornell University Ithaca, New York  
+Bachelor  of Computer  Science  
+Califor nia Institute of Technology  
+Projects  
+Stock  Price  Prediction  
+JP Morgan Asset Management Florida  
+Use the Sentiment Analysis Algorithms to  
+understand the stock sentiments.  
+Project: Twitter Sentiment Analysis  

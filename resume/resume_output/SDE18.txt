@@ -1,0 +1,87 @@
+ 
+ 
+Arnold Morrison  
+MOBILE  APP  DEVELOPER  
+arnold.morrison@gmail.com  
+1-202-555-0135  
+Los Angeles, California  
+linkedin.com/in/arnold.morrison  
+SUMMARY  
+• Experienced Mobile Application Developer with a demonstrated history of working 
+in the information technology and services industry.  
+• Skilled in Android Native, Ionic Framework, MongoDB and Core Java.  
+• Excellent problem solving, communication and collaboration skills.  
+SKILLS  
+• Technologies: Android, NDS, Unity, Ionic1  
+• Languages: JAVA, Kotlin  
+• Database: Oracl e, MongoDB  
+• IDE: Eclipse, Intellij idea, Android Studio  
+• Agile Tools: JIRA, Zoho, Redmine  
+EXPERIENCE  
+Senior  Software  Engineer  
+Broadcom – California Feb 2018 – Present  
+Lead  Engineer  
+Micron Technology Dec 2014 – Feb 2018  
+Game  Developer  
+Electronic Arts – Califo rnia Dec 2013 – Aug 2014  
+Game  Developer  
+Walt Disney – New York Jun 2011 – Nov 2013  
+PROJECTS  
+WSSD  (Water  Supply  & Sanitation  Department)  
+Senior  Developer  
+Technology : Android.  
+This is an android application for the employees of the Water Supply & Sanitation 
+Department for uploading reports for Ground Water Observation Well Reading, Survey’s 
+conducted, Water Sample Collection, Water Scheme Asset Status, Sanitation asset 
+functional status etc.  
+Morses  Club  Limited   
+Senior  Developer   
+Technology : Android, Ionic1, MFP server  
+MCL is a Home Collected Credit and a microfinance company. It is a doorstep loan 
+provider were in loan Agents associated with MCL do the sale and weekly collections 
+from customers. Loans as low as £100 and up to £1000 and repayment up to 78 week s 
+are provided thus providing an affordable loan sell system suiting the needs of end 
+customers across the UK. The Mobile application is created using Ionic1 using which   
+ 
+Arnold Morrison  
+MOBILE  APP  DEVELOPER  
+arnold.morrison@gmail.com  
+1-202-555-0135  
+Los Angeles, California  
+linkedin.com/in/arnold.morrison  
+SUMMARY  
+• Experienced Mobile Application Developer with a demonstrated history of working 
+in the information technology and services industry.  
+• Skilled in Android Native, Ionic Framework, MongoDB and Core Java.  
+• Excellent problem solving, communication and collaboration skills.  
+SKILLS  
+• Technologies: Android, NDS, Unity, Ionic1  
+• Languages: JAVA, Kotlin  
+• Database: Oracl e, MongoDB  
+• IDE: Eclipse, Intellij idea, Android Studio  
+• Agile Tools: JIRA, Zoho, Redmine  
+EXPERIENCE  
+Senior  Software  Engineer  
+Broadcom – California Feb 2018 – Present  
+Lead  Engineer  
+Micron Technology Dec 2014 – Feb 2018  
+Game  Developer  
+Electronic Arts – Califo rnia Dec 2013 – Aug 2014  
+Game  Developer  
+Walt Disney – New York Jun 2011 – Nov 2013  
+PROJECTS  
+WSSD  (Water  Supply  & Sanitation  Department)  
+Senior  Developer  
+Technology : Android.  
+This is an android application for the employees of the Water Supply & Sanitation 
+Department for uploading reports for Ground Water Observation Well Reading, Survey’s 
+conducted, Water Sample Collection, Water Scheme Asset Status, Sanitation asset 
+functional status etc.  
+Morses  Club  Limited   
+Senior  Developer   
+Technology : Android, Ionic1, MFP server  
+MCL is a Home Collected Credit and a microfinance company. It is a doorstep loan 
+provider were in loan Agents associated with MCL do the sale and weekly collections 
+from customers. Loans as low as £100 and up to £1000 and repayment up to 78 week s 
+are provided thus providing an affordable loan sell system suiting the needs of end 
+customers across the UK. The Mobile application is created using Ionic1 using which  

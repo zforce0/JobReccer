@@ -1,0 +1,43 @@
+ 
+ 
+ 
+ Montgomery Sills
+CNun@email.com	(123)456-7890 Stockton. California	Linkedln
+Github
+Proven Data Engineer with a history of driving excellence on both sides of a data engineering team. I am as
+comfortable leading a data team as / am contributing towards effective data engineering. I am excited to
+continue strengthening my career and increasing my skill set by bringing excellence to Livermore Lawrence
+Labs.
+WORK EXPERIENCE	
+Vector Space Biosciences - Mid-Level Data Engineer
+January 2019 - current	Remote
+•	Built, maintained, scaled, and supported 10+ existing data pipelines
+•	Ensured the proper storing of both raw and processed data
+•	Managed updates for 15+ channels with improvements without disrupting ongoing operations
+•	Integrated 6 pipelines to feed data to machine learning and language processing models
+Teladoc - Data Engineer
+August 2017- January 2019	Fremont. C A
+•	Performed continuous integration to ensure every step of ML pipeline was testable and automated
+•	Assisted in maintaining data integrity in 4 production systems
+•	Participated in Agile/SAFE planning 60+ data feature requests
+•	Advocated for best data engineering projects and practices in priority planning
+Insight Global - Junior Data Engineer
+June 2015-August 2017	Remote
+•	Wrote 3 machine learning and statistical modeling platforms
+•	Located, extracted, manipulated, and organized data from 25+ operational sources supporting analytic tool development
+•	Created and managed Postgres and SQL 20+ Server entities for use in data science modeling and reporting
+•	Built and developed 4 Application Programming Interfaces
+SKILLS	
+Python; Java; Power Bl; SQL; Redshift; Postgres; Snowflake; AWS; Microsoft SSIS
+CERTIFICATIONS	
+. AWS
+EDUCATION	
+University of the Pacific - Bachelor of Science, Computer Science
+September 2011 - June 2015, GPA: 3.6	Stockton, California
+
+ 
+ 
+ 
+ 
+ 
+ 
