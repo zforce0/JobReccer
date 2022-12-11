@@ -1,0 +1,49 @@
+Software Developer II
+ROBERT SMITHPhone: (123) 456 78 99 
+Email: info@qwikresume.com
+Website: www.qwikresume.com
+LinkedIn:
+linkedin.com/qwikresume
+Address: 1737 Marshville Road,
+Alabama.
+Objective
+7+ years of experience as a Software Developer, expertise in application design, development, 
+deployment, implementation, testing and maintenance of Enterprise and Web applications. 
+Extensive SDLC experience including requirement analysis, design, coding, application 
+implementation, unit testing, system testing, documentation and production support. 
+Skills
+Core Java, J2EE, JSP, Servlets, Struts 2, JDBC, Spring, Hibernate, JPA Web/Application Servers 
+JBoss, T omcat, Glassfish Web Presentation JSP, JavaScript, HTML, CSS, XML, Struts Tiles Databases
+Oracle 10i, 11g, Cassandra, SQL Server, HSQL T ools Eclipse, Netbeans, T oad, Gems For JMS 
+Frameworks JSP, Spring, Struts, Hibernate, JPA Operating Systems Unix, Linux, Windows, Mac OS 
+Domains Investment, Finance, Retail, Marketing. 
+Work Experience
+Software Developer II
+ABC Corporation  ­ August 2015 – Present  
+NJ managerial controls/ observation hub managerial controls is an application that helps 
+managers of a team monitor their clients to make sure they interacted within a timely 
+manner.
+Observation hub is an application where positive or anomalous observations of various teams 
+are recorded.
+Direct interaction with the different team managers to document their needs and 
+requirements for the application.
+Implementing and designing the technical architecture of the application based on the 
+requirements.
+Interacting with teams in London and Bangalore during the UAT testing of the application.
+Performing log mining as a part of production support for troubleshooting any technical issue 
+in the production.
+Assisted in coordination of internal qa testing, and external user acceptance testing.
+Software Developer
+ABC Corporation  ­ June 2012 – August 2015  
+Agility harmony is the new email marketing platform built from scratch to replace epsilons 
+legacy software dream and dream mail.
+The target of this software is to create an email campaign to send billions of emails on the 
+behalf of its client such as chase, Citi bank, Macys, toys r us, Marriott, etc.
+This software also keeps track of the reporting metrics such as the number of emails 
+delivered, clicked, opened and link redirects for billing the clients.
+Responsible for implementing new feature/functionality based on requirements provided by 
+the product owners.
+As per the agile software development methodology, I was responsible for tasking out user 
+stories and maintained the burndown chart and kept track of iteration.
+© This Free Resume Template  is the copyright of Qwikresume.com . Usage
+Guidelines

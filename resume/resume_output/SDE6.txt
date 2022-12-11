@@ -1,0 +1,44 @@
+                   
+ROBERT SMITH
+Sr Software Developer
+         
+E­mail: info@qwikresumc.com                                                                           Phone:  (0123)­456­789
+ 
+SUMMARYSUMMARY
+6+ years of experience in analysis, design, and development of client/server, web­based, SOA based 
+architecture and n­tier architecture applications as a Software Developer. Expert in providing business 
+solutions with hands­on experience developing web applications, web services, Web API, WCF Services, 
+windows applications, and windows services in .NET 
+SKILLSSKILLS
+ HTML, JavaScript, JQuery, and Reporting Tools: SSRS, Crystal Reports.
+WORK EXPERIENCEWORK EXPERIENCE
+Sr Software Developer 
+ABC Corporation ­ September 2014 – Present 
+ 
+Responsible for migrating legacy applications, automated office processes, and led the IT 
+department toward more efficient task completion.
+Creating various windows forms applications that are used as a part of migration tools, worked on 
+legacy GUI applications are written in VBA and Delphi which are used in the daily business process
+such as fulfillment.
+Creating windows services that were installed and used to run various scheduled process which was 
+key for new client implementations.
+Creating restful web services, web API projects which are consumed by 3rd party clients to place 
+API orders.
+Using swagger to wrap the restful APIs to create the API documentation used postman tool for 
+troubleshooting the restful APIs added new soap web methods to existing soap web services used 
+soap UI tool for troubleshooting.
+Creating Angularjs modules which were used as UI admin tools for the business team.
+Troubleshooting Java middleware application which is later migrated to. Net middleware 
+application gained knowledge with Linux environment and JBoss server as part of the migration.
+NET Developer 
+ABC Corporation ­ August 2013 – September 2014 
+ 
+Description project involved in developing various internal applications/services that enhanced the 
+business process like catalog management, inventory management, reporting.
+Some bpm tasks involved re­engineering the existing application/services for better results that will 
+help the business process.
+Responsibilities gathering and analyzing business requirements, functional specification and 
+designing the systems to meet the requirements.
+Developed asp. Net controls implemented user controls, custom controls, worked with the 
+implementation of master pages.
+© This Free Resume Template is the copyright of Qwikresume.com. Usage Guidelines

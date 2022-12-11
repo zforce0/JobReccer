@@ -1,0 +1,43 @@
+ROBERT SMITH
+Lead Software Developer
+info@qwikresume.com | LinkedIn Profile  | Qwikresume.com
+Having Strong written and oral communication skills. Involved in Understanding 
+functional specifications and developing creative solutions to meet business 
+requirements.
+EXPERIENCE
+Lead Software Developer
+ABC Corporation - SEPTEMBER 2011 – PRESENT
+Involved in developing the front end applications using web 
+technologies like HTML/HTML 5, and CSS/css3.
+Building web pages that are more user-interactive using ajax, 
+javascript, and AngularJS.
+Involved in making the application responsive using bootstrap, and 
+used less pre-processor.
+Creating custom word press interfaces which interact with the MySQL 
+database.
+Managing client word press installations, including updates, security 
+patches, and plug-in functionality.
+Developing applications in angular js and bootstrap and deployed into
+development, test and production environment successfully.
+Working on the MVC architecture of angular js in developing the apps,
+controllers, and directives which are totally customized to meet the 
+needs of the application we used angular js as the main MVC 
+framework, and also restful web services.
+Software Developer 
+ABC Corporation - APRIL 2010 – AUGUST 2011
+Worked on web and Android applications to find nearby attractions 
+and navigate or share results responsibilities implemented the UI 
+pages based on provided design format using HTML, CSS, and 
+javascript.
+Developed and maintained a custom medical practice management 
+application, centered primarily on scheduling and billing.
+Responsible for setting up the database system by designing DB 
+schema and EER.
+Worked with the planning team to define application requirements, 
+and worked with the design team to discuss responsive UI designs 
+and other specifications.
+Created a visual demo of applications using flash, Actionscript, and 
+photoshop for a startup app competition.
+Assisted in the migration of portions of the character based version 
+application to the windows application.
+© This Free Resume Template  is the copyright of Qwikresume.com. Usage Guidelines

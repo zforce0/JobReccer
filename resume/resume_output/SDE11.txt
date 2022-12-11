@@ -1,0 +1,42 @@
+ROBERT SMITH
+Lead Software Developer III
+Phone: (0123)­456­789  | Email: info@qwikresume.com  | Website: Qwikresume.com  
+SUMMARY
+Developed numerous fluids engineering and other complex software applications over 
+14+ years of experience as a Software Developer, using Pascal/Delphi, Java/Android, 
+and C/C++/C#/VS/Windows. Independently produced 4 major applications for the fluid 
+transport and pump industries that are included in 3 editions of a collegiate level 
+textbook. 
+CORE COMPETENCIES
+A+, Network+, Security+, MCP, Desktop Support, JavaScript, HTML5, CSS3, Nodejs, 
+Meteorjs, Underscore, Jquery, MongoDB, Bootstrap, Lodash, Underscore, Express, 
+SASS, LESS, Malware Analysis, Reverse Engineering, Exploit Development, and Network 
+Penetration.
+PROFESSIONAL EXPERIENCE
+Lead Software Developer III
+ABC Corporation ­ November 2013 – Present
+Key Deliverables:
+Writing hardware­locking and time­trial software for user evaluation purposes.
+Developing custom versions of software for international pump manufacturing 
+companies.
+Advanced pump selection software that offers 40+ selection criteria to select from 
+thousands of pumps.
+Building and assembling pump catalogs that are viewed and used in the pump 
+selection process.
+Working with major pump companies on custom versions and pump catalogs for 
+users.
+Hydroflo (originally c, now Pascal, 32k lines code) drag and drop fluid­flow piping 
+design and analysis software for both pumped and gravity systems.
+Quickly analyzing fluid transport systems for steady­state operating results.
+Contract Software Developer/Business Analyst/Project Lead
+ABC Corporation ­ May 2005 – October 2013
+ 
+Key Deliverables:
+Developed and maintained major aspects of a 450+ software application suite that
+are used by 22 California counties to assess property values and collect property 
+taxes by the assessor, auditor and tax collector departments.
+Started as an application developer and then moved on to a project lead/business
+analyst position for several multi­year projects property transfer, base year, 
+apportionment and cashiering.
+2259 Oak Street, Old Forge, New York, 13420
+© This Free Resume Template  is the copyright of Qwikresume.com. Usage Guidelines
