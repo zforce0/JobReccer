@@ -4,7 +4,6 @@ import pandas as pd
 from os.path import exists
 from utils.ui import *
 
-
 all_jobs_file = "./data/all_jobs.json"
 # columns are User_ID, rows are Job_ID
 rating_file = "./data/job_user_rating.csv"
