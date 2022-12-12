@@ -1,7 +1,7 @@
 import re
 
 
-with open('./resume/resume_output/result.txt') as f:
+with open('./resume/resume_output/SDE1.txt') as f:
     lines = f.readlines()
 year = list()
 query = dict()

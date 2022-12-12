@@ -1,0 +1,37 @@
+{
+      "name": "Vijit Kumar",
+      "email": "vijitkumar699@gmail.com",
+      "mobile_number": "9580774044",
+      "skills": [
+            "Mysql",
+            "Analyze",
+            "English",
+            "Safety",
+            "Python",
+            "Communication",
+            "Sales",
+            "Pandas",
+            "Tableau",
+            "Excel",
+            "Numpy"
+      ],
+      "college_name": null,
+      "degree": null,
+      "designation": null,
+      "experience": [
+            "INeuron, Bangalore\u2014 Machine Learning Intern",
+            "September 2022 - October 2022",
+            "Mushroom Classi\ufb01cation",
+            "(https://github.com/vijit200/MushroomPrediction)",
+            "This dataset contains supervised machine learning problems.",
+            "8000 records with 23 categorical columns (capshape, capcolor, veil type,",
+            "etc.) are used. We use K Means to cluster the data, and for each cluster we",
+            "\ufb01nd the best model.",
+            "INeuron , Bangalore\u2014 Data Analyst Intern",
+            "October 2022 - November 2022",
+            "AmazonFood Sales"
+      ],
+      "company_names": null,
+      "no_of_pages": 1,
+      "total_experience": 0.17
+}

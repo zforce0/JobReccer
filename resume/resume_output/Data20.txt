@@ -1,0 +1,45 @@
+Bingchen Ji
+1831 Lake Lila Ln, Ann Arbor, MI, USA, 48105 • 7344503646
+jibc@umich.edu	 • www.linkedin.com/in/bingchen-ji
+Education
+University of Michigan, Ann Arbor, MI, USA
+Master of Science in Engineering of Industrial and Operations Engineering, GPA 3.71/4.0	   	          	Expected 12/22
+Graduate Certificate in Data Science, 	GPA 3.53/4.0  					  	          	Expected 12/22
+McMaster University, Hamilton, ON, Canada							 	from 09/16 to 04/21
+Bachelor of Engineering in Mechatronics Engineering (summa cum laude), GPA 3.7/4.0
+Skills
+Programming: Python (pandas, sklearn, matplotlib, TensorFlow, Gurobi), MySQL, MongoDB, neo4j, MATLAB, C/C++, Julia, JavaScript, Linux Bash, LaTeX, Spark, Hive, Hadoop, ROS, AWS
+Software: MS Excel, PowerPoint, PowerBI, Tableau, Git, Docker, MiniTab, ProModel, AutoCAD
+Areas of expertise: Machine learning, deep learning, simulation, optimization, cloud computing, data mining, time series analysis, model predictive control, software development, business analytics, operations management, data analysis, financial economics
+Experiences
+JobReccer Job Posting Recommender System	from 09/22 to 12/22
+Machine Learning Engineer, Ann Arbor, MI
+•	Building an interactive job posting recommender system with deep neural text understanding. Crawled 6567 job descriptions on Indeed.com with Octoparse. Encoding resume and job text with BERT, training learning to rank deep learning neural network on Great Lakes cloud computing cluster. Implemented relevance feedback mechanisms to continuously improve the hybrid collaborative filtering model over testing and deployment. 
+DTW Airport throughput simulation Analysis	from 01/22 to 04/22
+Data Scientist, Remote
+•	Crawled flight schedule data from the DTW website through cross-temporal sampling. Pre-processed the data with week-granularity smoothened synthesis. Predicted 2022 post-covid airport throughput considering the covid impact from past years/months statistics with the ARIMA model. Developed a what-if analysis portfolio dealing with uncertain covid policies. 
+•	Used the Kolmogorov-Smirnov test to optimize the characterization of aircraft arrival and departure distributions. Simulated DTW airport operation with ProModel. Proposed 3 gate operation schemes could save up to 60% on operational costs.
+US Forestry Timber Bidding Strategy Optimization	from 01/22 to 04/22
+Business Analyst, Remote
+•	Developed a stochastic optimization model to find the optimal bidding strategy based on past data. Built data dashboards and pivot tables for visualization with Tableau and Excel power query editor.
+•	Used principal component analysis for price prediction model dimensionality reduction.
+Fakebook: Social Network Database Management Systems	from 09/21 to 10/21
+Backend Software Developer, Remote, USA
+•	Built a relational database connecting with a social network application using SQL Plus. Implemented database administration functions. Integrated it with a Java application emulating simplified Facebook functionalities.
+CRRC Co. Ltd, Las Vegas, NV, USA
+Business Development Manager (Contract)	 from 09/21 to 10/21
+•	Conducted market research through 35 customer interviews as a company representative at MineExpo 2021. Guided go-to-market strategy by analyzing electrification adoption data in the North American mining equipment market.
+ETF Lab at McMaster University, Hamilton, ON, Canada
+Research Assistant (Autonomous Driving Simulation)	from 06/20 to 08/20
+•	Implemented satellite and inertial sensor data fusion algorithm for vehicle navigation in C++.
+•	Wrote Linux Bash scripts for automated environment configuration of 43 libraries.
+Longan Vision Corp., Hamilton, ON, Canada
+AR Software Engineer (Co-op)	from 08/19 to 01/20
+•	Developed a multi-threading adaptive augmented reality device configuration software with OpenCV in C++. Saved 20% of the manufacturing budget.
+•	Simulated a WLAN network and optimized the network configuration. Reduced over 40% packet loss rate for indoor settings.
+Leadership Experiences and Extracurriculars
+MAC RoboMaster Club McMaster University, Hamilton, ON, Canada
+Founder and Captain	from 08/18 to 09/19
+•	Founded the premier international robotics competition club at McMaster. 
+•	Led the team to win 3rd prize in RoboMaster international robotics competition (top 32/124) as a first‑year participating team.
+

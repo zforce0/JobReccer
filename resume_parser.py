@@ -1,4 +1,4 @@
-import PyPDF2
+# import PyPDF2
 import os
 
 # #create file object variable
@@ -21,12 +21,45 @@ import os
 # file1.writelines(text)
 
 
+# # assign directory
+# directory = 'resume'
+# # iterate over files in
+# # that directory
 
-# assign directory
+# for filename in os.listdir(directory):
+#     if not filename.endswith(".pdf"):
+#         continue
+#     f = os.path.join(directory, filename)
+#     # checking if it is a file
+#     if os.path.isfile(f):
+#         #print(f)
+#         pdffileobj = open(f,'rb')
+#         pdfreader = PyPDF2.PdfFileReader(pdffileobj)
+#         pageobj = pdfreader.getPage(0)
+#         text = pageobj.extractText()
+#         prefix = filename.split(".")[0]
+#         path = 'resume/resume_output/%s.txt' % prefix
+#         file1 = open(path,"a")
+#         file1.writelines(text)
+
+import nltk
+# nltk.download('omw-1.4')
+# nltk.download('wordnet')
+from nltk.stem import WordNetLemmatizer
+from nltk.stem import PorterStemmer
+import json
+
+# lemmatizer = WordNetLemmatizer()
+# porter = PorterStemmer()
+# print("rocks :", lemmatizer.lemmatize("Apples"))
+# print("corpora :", lemmatizer.lemmatize("corpora"))
+# print(porter.stem("Cats"))
+
+from pyresparser import ResumeParser
+
 directory = 'resume'
 # iterate over files in
 # that directory
-
 for filename in os.listdir(directory):
     if not filename.endswith(".pdf"):
         continue
@@ -34,11 +67,11 @@ for filename in os.listdir(directory):
     # checking if it is a file
     if os.path.isfile(f):
         #print(f)
-        pdffileobj = open(f,'rb')
-        pdfreader = PyPDF2.PdfFileReader(pdffileobj)
-        pageobj = pdfreader.getPage(0)
-        text = pageobj.extractText()
+        data = ResumeParser(f).get_extracted_data()
         prefix = filename.split(".")[0]
-        path = 'resume/resume_output/%s.txt' % prefix
-        file1 = open(path,"a")
-        file1.writelines(text)
+        path = 'resume/resume_output/%s.json' % prefix
+        out_file = open(path, "w")
+        json.dump(data, out_file, indent = 6)
+        out_file.close()
+        
+        

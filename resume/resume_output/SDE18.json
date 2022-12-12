@@ -1,0 +1,44 @@
+{
+      "name": "Arnold Morrison",
+      "email": "arnold.morrison@gmail.com",
+      "mobile_number": "202-555-0135",
+      "skills": [
+            "System",
+            "Agile",
+            "Mobile",
+            "Communication",
+            "Android",
+            "Oracle",
+            "Reports",
+            "Java",
+            "Jira",
+            "Database"
+      ],
+      "college_name": null,
+      "degree": [
+            "Masters of Computer Application"
+      ],
+      "designation": [
+            "Senior Software Engineer",
+            "Senior Developer",
+            "Lead Developer",
+            "Game Developer",
+            "Senior Developer  \nTechnology",
+            "Lead Engineer"
+      ],
+      "experience": [
+            "Senior Software Engineer",
+            "Broadcom \u2013 California Feb 2018 \u2013 Present",
+            "Lead Engineer",
+            "Micron Technology Dec 2014 \u2013 Feb 2018",
+            "Game Developer",
+            "Electronic Arts \u2013 California Dec 2013 \u2013 Aug 2014",
+            "Game Developer",
+            "Walt Disney \u2013 New York Jun 2011 \u2013 Nov 2013"
+      ],
+      "company_names": [
+            "Alabama"
+      ],
+      "no_of_pages": 2,
+      "total_experience": 11.08
+}
