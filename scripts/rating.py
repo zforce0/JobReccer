@@ -3,6 +3,8 @@ import numpy as np
 import pandas as pd
 from os.path import exists
 
+
+
 all_jobs_file = "../data/all_jobs.json"
 with open(all_jobs_file, "r+") as infile:
     jobs = json.load(infile) #Read json file into buffer
@@ -41,7 +43,6 @@ def sanitised_input(prompt, type_=None, min_=None, max_=None, range_=None):
                     print(template.format(expected))
         else:
             return ui
-
 # Define headers for job_user_rating.csv
 # columns are User_ID, rows are Job_ID
 rating_file = "../data/job_user_rating.csv"
@@ -62,12 +63,12 @@ else:
     df = pd.DataFrame(np.nan, index=range(number_of_jobs), columns=range(number_of_users))
     df.to_csv("../data/job_user_rating.csv", index=True)
 
-for u in range(40):
-    uid = sanitised_input("Please enter your user id. (for test user, in [0,39]", int, 0, 39)
+for u in range(number_of_users):
+    uid = sanitised_input("Please enter your user id. (for test user, in [0,39]", int, 0, number_of_users-1)
     print("Thank you!")
     print("Directing you to rating system... \n")
     time.sleep(0.3)
-    for _ in range(20):
+    for _ in range(3):
         #randomly choose(recommend) one job for rating
         job = random.choice(jobs)
         jid = int(job["Job_ID"])
