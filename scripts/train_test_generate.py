@@ -52,20 +52,23 @@ for i in range(user_num):
 f.close()            
 
 max_l = 0 
-with open('data/job_user_rating_train.txt', 'w') as f:
+
+with open('data/job_user_train.txt', 'w') as f1:
+    
     for pair in temp:
         job_d = job_dic[pair[0]]
         work_exp = user_dic[pair[1]]
-#         if (len(work_exp.split()) > max_l):
-#             max_l = len(work_exp.split())
+#    if (len(work_exp.split()) > max_l):
+#    max_l = len(work_exp.split())
         line = job_d +'<SPLIT>'+ work_exp
-        f.write(line)
-        f.write('\n')
+        f1.write(line)
+        f1.write('\n')
+
 print('length of train files',len(temp))
 # print('max length of work experience in train files',max_l)
 
 line_num = 0
-with open('data/job_user_rating_test.txt', 'w') as f:
+with open('data/job_user_test.txt', 'w') as f2:
     for i in range(job_num):
         for j in range(user_num):
             job_d = job_dic[str(i)]
@@ -73,7 +76,10 @@ with open('data/job_user_rating_test.txt', 'w') as f:
             if work_exp is None:
                 work_exp = ''
             line = job_d +'<SPLIT>'+ work_exp
-            f.write(line)
-            f.write('\n')
+            f2.write(line)
+            f2.write('\n')
             line_num += 1
+
 print('length of test files',line_num)   
+
+    
