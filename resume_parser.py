@@ -58,8 +58,9 @@ import json
 from pyresparser import ResumeParser
 
 directory = 'resume'
-# iterate over files in
-# that directory
+temp = [] # list to store all user info
+cnt = 0
+# iterate over files in that directory
 for filename in os.listdir(directory):
     if not filename.endswith(".pdf"):
         continue
@@ -68,10 +69,12 @@ for filename in os.listdir(directory):
     if os.path.isfile(f):
         #print(f)
         data = ResumeParser(f).get_extracted_data()
-        prefix = filename.split(".")[0]
-        path = 'resume/resume_output/%s.json' % prefix
-        out_file = open(path, "w")
-        json.dump(data, out_file, indent = 6)
-        out_file.close()
+        data['User_ID'] = str(cnt)
+        cnt += 1
+        temp.append(data)
+
+out_file = open('data/all_users.json', "w")
+json.dump(temp, out_file, indent = 6)
+out_file.close()
         
         
