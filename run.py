@@ -3,7 +3,13 @@ import numpy as np
 import pandas as pd
 from os.path import exists
 from utils.ui import *
-from scripts import bm25_pk
+# from fileName import className
+from scripts.bm25_module import bm25_pk
+import sys
+
+# # put path of scripts here
+# sys.path.insert(0, '/Users/yunzhongli/Downloads/UMcourses/SI650/finalProject/JobReccer/scripts')
+
 
 all_jobs_file = "./data/all_jobs.json"
 # columns are User_ID, rows are Job_ID
@@ -28,7 +34,7 @@ time.sleep(0.3)
 run_flag = True
 bm25_here = bm25_pk()
 idx = bm25_here.create_idx()
-while run_flag ==True:
+while run_flag == True:
     #Recommend jobs for the user
     # job = random.choice(jobs)
     job = bm25_here.bm25_search(uid,idx)
