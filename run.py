@@ -3,6 +3,7 @@ import numpy as np
 import pandas as pd
 from os.path import exists
 from utils.ui import *
+from scripts import bm25_pk
 
 all_jobs_file = "./data/all_jobs.json"
 # columns are User_ID, rows are Job_ID
@@ -25,9 +26,12 @@ print("Thank you!")
 print("Finding best jobs for you... \n")
 time.sleep(0.3)
 run_flag = True
+bm25_here = bm25_pk()
+idx = bm25_here.create_idx()
 while run_flag ==True:
     #Recommend jobs for the user
-    job = random.choice(jobs)
+    # job = random.choice(jobs)
+    job = bm25_here.bm25_search(uid,idx)
 
     jid = int(job["Job_ID"])
 
