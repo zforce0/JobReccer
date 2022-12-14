@@ -3,6 +3,7 @@ from csv import reader
 import pandas as pd
 import numpy as np
 import math
+import io
 
 rating_file = '../data/job_user_rating.csv'
 jobs_file = '../data/all_jobs.json'
@@ -74,21 +75,20 @@ print(f'number of testing samples: ', len(df_test))
 print(f'number of validation samples: ', len(df_validation))
 
 train_line_num = 0
-with open(train_file, 'w') as file_output:
-    line = ''
+with io.open(train_file, mode='w', encoding='utf-8') as file_output:
     for i in range(len(df_train)):
-        line = str(df_train.iloc[i][0]) + '<SPLIT>' + \
+        line = ''.join(str(df_train.iloc[i][0]) + '<SPLIT>' + \
             str(df_train.iloc[i][1]) + '<SPLIT>' + \
             str(df_train.iloc[i][2]) + '<SPLIT>' + \
             str(df_train.iloc[i][3]) + '<SPLIT>' + \
-            str(df_train.iloc[i][4])
+            str(df_train.iloc[i][4]))
         file_output.write(line)
         file_output.write('\n')
         train_line_num += 1
 print(f'train line number is: ', train_line_num)
 
 test_line_num = 0
-with open(test_file, 'w') as file_output:
+with io.open(test_file, mode='w', encoding='utf-8') as file_output:
     line = ''
     for i in range(len(df_test)):
         line = str(df_test.iloc[i][0]) + '<SPLIT>' + \
@@ -103,7 +103,7 @@ with open(test_file, 'w') as file_output:
 print(f'testline number is: ', test_line_num)
 
 validation_line_num = 0
-with open(validation_file, 'w') as file_output:
+with io.open(validation_file, mode='w', encoding='utf-8') as file_output:
     line = ''
     for i in range(len(df_test)):
         line = str(df_test.iloc[i][0]) + '<SPLIT>' + \
