@@ -8,9 +8,8 @@ file_path = "./data/test.csv"
 df = pd.read_csv(file_path, header=0)
 
 #return an array of all jobs rating (existing + predicted) for the given user
-def job_job_collab_filter(uid, df, k=2):
-    job_corr = df.T.corr(method='pearson', numeric_only=True)
-    global_mean = sum(df.mean(skipna=True))/df.size
+def job_job_collab_filter(uid, df, k=3):
+    global_mean = sum(df.sum(skipna=True))/df.size
     uid_ratings = df.iloc[:,uid]
     uid_baseline = uid_ratings.mean(skipna=True) - global_mean
     df_row_diff = df.sub(df.mean(axis=1), axis=0)
