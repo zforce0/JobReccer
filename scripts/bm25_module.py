@@ -149,19 +149,21 @@ class bm25_pk:
             pt.init()
 
         if not os.path.exists('pd_index' + "/data.properties"):
+            f = open(os.path.dirname(__file__) + '/../data/all_jobs.json')
+            data = json.load(f)
 
-            df = pd.read_csv('./data/all_jobs.json')
             # print(df.head())
             temp_dic = dict({'text':[],'docno':[]})
-            for i in range(len(df)):
-                temp_dic['docno'].append(df[i]["Job_ID"])
-                temp_dic['text'].append(df[i]["Short_Description"])
+            for i in range(len(data)):
+                temp_dic['docno'].append(data[i]["Job_ID"])
+                temp_dic['text'].append(data[i]["Short_Description"])
+            f.close()
             job_df = pd.DataFrame(temp_dic)
             # print(code_df)
-            pd_indexer = pt.DFIndexer("pd_index",overwrite = True)
+            pd_indexer = pt.DFIndexer("./pd_index",overwrite = True)
             index_ref = pd_indexer.index(job_df["text"], job_df["docno"])
         else:
-            index_ref = pt.IndexRef.of('pd_index'+ "/data.properties")
+            index_ref = pt.IndexRef.of('./pd_index'+ "/data.properties")
         index = pt.IndexFactory.of(index_ref)
         print(index.getCollectionStatistics().toString())
         return index
