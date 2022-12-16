@@ -4,11 +4,19 @@ import math
 from sklearn.neighbors import KNeighborsRegressor
 from sklearn.metrics.pairwise import cosine_similarity
 
-file_path = "./data/test.csv"
+file_path = "./data/job_user_rating.csv"
 df = pd.read_csv(file_path, header=0)
 
-#return an array of all jobs rating (existing + predicted) for the given user
+
 def job_job_collab_filter(uid, df, k=3):
+    """
+    input
+    uid: user id. type int; df,dataframe of rating file type dataframe; k:how many similar items to pick
+    *****************************
+    output
+    return an array of all jobs rating in job_id incresing order(existing + predicted) for the given user
+    type pandas.core.series.Series(usage similar to list)
+    """
     global_mean = sum(df.sum(skipna=True))/df.size
     uid_ratings = df.iloc[:,uid]
     uid_baseline = uid_ratings.mean(skipna=True) - global_mean

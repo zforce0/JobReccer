@@ -10,6 +10,7 @@ import json
 import csv  
 from csv import reader
 import pandas as pd
+import re
 
 def initial():
     # skip first line i.e. read header first and then iterate over each row od csv as a list
@@ -62,6 +63,8 @@ def initial():
             user_dic[str(i)] = None
             continue
         exper = ' '.join(exper)
+        # remove special charccters to avoid QueryParserException
+        exper = re.sub(r'[^a-zA-Z0-9" "]', '',exper)
         if (len(exper.split()) > 200):
             exper = ' '.join(exper.split()[:200])
         user_dic[str(i)] = exper 
@@ -76,6 +79,8 @@ def initial():
             work_exp = user_dic[pair[1]]
     #    if (len(work_exp.split()) > max_l):
     #    max_l = len(work_exp.split())
+            if work_exp is None:
+                work_exp = ' '
             line = job_d +'<SPLIT>'+ work_exp
             f1.write(line)
             f1.write('\n')
@@ -128,8 +133,8 @@ def initial():
                 except:
                     print(line)
                 
-    df = pd.read_csv(os.path.dirname(__file__) + '/../data/job_user.csv')
-    print(df.head())
+    # df = pd.read_csv(os.path.dirname(__file__) + '/../data/job_user.csv')
+    # print(df.head())
     return user_dic, job_dic,score
 
 
@@ -170,7 +175,12 @@ class bm25_pk:
 
  
     def bm25_search(self,user_id,index):
-        '''serach()return type is dataframe
+        '''
+        input 
+        user_id, user id , type int , index, index of job description
+        *********************************  
+        output
+        return, bm25 search results, type dataframe
         '''
         bm25 = pt.BatchRetrieve(index, wmodel="BM25")
         return bm25.search(self.user_dic[str(user_id)])
