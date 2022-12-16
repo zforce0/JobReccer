@@ -8,7 +8,7 @@ Start with non-empty job_user_rating.csv:
 In project root directory, run $python run.py
 
 
-Environment 
+Environment Requirement:
 Python 3.6 ~3.8, 
 pyterrier,
 nltk
