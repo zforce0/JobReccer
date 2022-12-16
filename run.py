@@ -17,6 +17,9 @@ rating_file = "./data/job_user_rating.csv"
 
 with open(all_jobs_file, "r+") as infile:
     jobs = json.load(infile) #Read json file into buffer
+    job_dic = {} # key:jb_id val: json object of that job
+    for i in range(len(jobs)):
+        job_dic[i] = jobs[i]
 
 try:
     df = pd.read_csv(rating_file, header=0)
@@ -37,19 +40,22 @@ idx = bm25_here.create_idx()
 while run_flag == True:
     #Recommend jobs for the user
     # job = random.choice(jobs)
-    job = bm25_here.bm25_search(uid,idx)
+    job_df = bm25_here.bm25_search(uid,idx)
+    job_id = job_df['docid'][:5] # select top 5 results
+    job_ls = [job_dic[job_id[i]] for i in range(5)]
 
-    jid = int(job["Job_ID"])
+#Job display interface 
+    for i in range(5):
+        print(json.dumps(job_ls[i], indent=4))
 
-    #Job display interface 
-    print(json.dumps(job, indent=4))
+    pick = sanitised_input("Which job would like to check  (1 to 5) \n" + "Enter your pick: ", int, 1, 5)
     rating = sanitised_input("How do you like this job from 1 (least favorable) to 5 (most favorable)? Enter 0 to exit. \n" + "Enter your rating: ", int, 0, 5)
 
     if rating == 0:
         run_flag = False
     else: 
         #update rating
-        df.iat[jid, uid] = rating
+        df.iat[job_id[pick -1], uid] = rating
     df.to_csv(rating_file, index=False)
     print("-------------------------------\n Looking for another matching job for you ...\n ------------------------------\n")
 

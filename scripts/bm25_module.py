@@ -15,7 +15,8 @@ def initial():
     # skip first line i.e. read header first and then iterate over each row od csv as a list
     temp = [] # a lisr to store (job_id,user,id)
     score = {} # dictionary, key(job_id,user_id),value(score)
-    with open('data/job_user_rating.csv', 'r') as read_obj:
+    #with open('data/job_user_rating.csv', 'r') as read_obj:
+    with open(os.path.dirname(__file__) + '/../data/job_user_rating.csv', 'r') as read_obj:
         csv_reader = reader(read_obj)
         header = next(csv_reader)
         row_id = 0
@@ -40,7 +41,8 @@ def initial():
     job_dic = {}
     job_num = 0
     # Opening JSON file
-    f = open('data/all_jobs.json')
+
+    f = open(os.path.dirname(__file__) + '/../data/all_jobs.json')
     # returns JSON object as a dictionary
     data = json.load(f)
     # Iterating through the json list
@@ -51,7 +53,7 @@ def initial():
     # Closing file
     f.close()    
     
-    f = open('data/all_users.json')
+    f = open(os.path.dirname(__file__) + '/../data/all_users.json')
     data = json.load(f)
     user_num = len(data)
     for i in range(user_num):
@@ -66,8 +68,8 @@ def initial():
     f.close()            
 
     max_l = 0 
-
-    with open('data/job_user_train.txt', 'w') as f1:
+    
+    with open(os.path.dirname(__file__) + '/../data/job_user_train.txt', 'w') as f1:
         
         for pair in temp:
             job_d = job_dic[pair[0]]
@@ -82,7 +84,8 @@ def initial():
     # print('max length of work experience in train files',max_l)
 
     line_num = 0
-    with open('data/job_user_test.txt', 'w') as f2:
+  
+    with open( os.path.dirname(__file__) + '/../data/job_user_test.txt', 'w') as f2:
         for i in range(job_num):
             for j in range(user_num):
                 job_d = job_dic[str(i)]
@@ -100,9 +103,9 @@ def initial():
     import csv  
 
     header = ['user_expe', 'user_id', 'job_desc', 'job_id','relevance']
-
-    with open('data/job_user.csv', 'w', encoding='UTF8') as f:
-        writer = csv.writer(f)
+ 
+    with open(os.path.dirname(__file__) + '/../data/job_user.csv', 'w', encoding='UTF8') as f:
+        writer = csv.writer(f,escapechar='\\')
         # write the header
         writer.writerow(header)
         # write the data
@@ -120,9 +123,12 @@ def initial():
                 line.append(str(i))
                 score_here = score[(i,j)]
                 line.append(score_here)
-                writer.writerow(line)
+                try:
+                    writer.writerow(line)
+                except:
+                    print(line)
                 
-    df = pd.read_csv('data/job_user.csv')
+    df = pd.read_csv(os.path.dirname(__file__) + '/../data/job_user.csv')
     print(df.head())
     return user_dic, job_dic,score
 
@@ -142,9 +148,9 @@ class bm25_pk:
         if not pt.started():
             pt.init()
 
-        if not os.path.exists('./pd_index' + "/data.properties"):
+        if not os.path.exists('pd_index' + "/data.properties"):
 
-            df = pd.read_csv('../data/all_jobs.json')
+            df = pd.read_csv('./data/all_jobs.json')
             # print(df.head())
             temp_dic = dict({'text':[],'docno':[]})
             for i in range(len(df)):
@@ -152,16 +158,18 @@ class bm25_pk:
                 temp_dic['text'].append(df[i]["Short_Description"])
             job_df = pd.DataFrame(temp_dic)
             # print(code_df)
-            pd_indexer = pt.DFIndexer("./pd_index",overwrite = True)
+            pd_indexer = pt.DFIndexer("pd_index",overwrite = True)
             index_ref = pd_indexer.index(job_df["text"], job_df["docno"])
         else:
-            index_ref = pt.IndexRef.of('./pd_index'+ "/data.properties")
+            index_ref = pt.IndexRef.of('pd_index'+ "/data.properties")
         index = pt.IndexFactory.of(index_ref)
         print(index.getCollectionStatistics().toString())
         return index
 
-
+ 
     def bm25_search(self,user_id,index):
+        '''serach()return type is dataframe
+        '''
         bm25 = pt.BatchRetrieve(index, wmodel="BM25")
         return bm25.search(self.user_dic[str(user_id)])
 
