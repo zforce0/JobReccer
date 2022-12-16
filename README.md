@@ -9,6 +9,6 @@ In project root directory, run $python run.py
 
 
 Environment 
-Python 3.6 ~3.8
-pyterrier
+Python 3.6 ~3.8, 
+pyterrier,
 nltk
