@@ -118,6 +118,7 @@ bm25_here = bm25_pk()
 idx = bm25_here.create_idx()
 #find jobs to recommend to the user
 job_df = bm25_here.bm25_search(uid,idx)
+print("Done initial jobs searching, refining results...")
 ans = rerank(bm25_result= job_df,cf_result= cf_result_ )
 job_id = []         # list to store retrieved id 
 for k, v in ans.items():
